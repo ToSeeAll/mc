@@ -1,0 +1,14 @@
+{
+	"name": "mc",
+	"description": "my mc",
+	"keywords": ["mc"],
+	"env": {
+		"MyEnv": {
+			"description": "MyEnv description",
+			"value": "MyEnv value"
+		}
+	},
+	"website": "https://blog.toame.tk/",
+	"repository": "https://github.com/ToSeeAll/mc",
+	"stack": "container"
+}
